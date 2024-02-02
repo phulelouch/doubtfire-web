@@ -47,7 +47,7 @@
     "@uirouter/angularjs": "^1.0.30",
     "@uirouter/core": "^6.0.8",
     "@uirouter/rx": "^1.0.0",
-    "angular": "1.5.11",
+    "angular": "1.8.3",
     "angular-cookies": "1.5.11",
     "angular-file-upload": "1.1.1",
     "angular-filter": "0.5.17",
